@@ -1,3 +1,9 @@
+## 1.1.1 (2021-08-12)
+
+### :wrench: &nbsp; Fix version number
+
+---
+
 ## 1.1.0 (2021-08-12)
 
 ### :wrench: &nbsp; Change some rules:
