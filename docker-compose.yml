@@ -1,9 +1,12 @@
 version: '3.9'
 services:
-  # Node
-  node:
-      container_name: node
-      image: node:16.6.0-alpine3.13
+  # ESLint
+  eslint:
+      container_name: eslint
+      build:
+        context: .
+        dockerfile: Dockerfile
+      image: eslint:1.0
       volumes:
           - .:/home/app
           - /home/app/node_modules

@@ -1,0 +1,10 @@
+Dockerfile
+docker-compose.yml
+*.log
+.git
+.github
+.cache
+.editorconfig
+.dockerignore
+.DS_Store
+Icon?
