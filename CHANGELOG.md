@@ -16,11 +16,11 @@
   * Publish on GitHub Packages;
 
 ### New Files:
-  * + License file;
-  * + Dockerfile;
-  * + .dockerignore;
-  * + .npmignore;
-  * + .editorconfig;
+  * License file;
+  * Dockerfile;
+  * .dockerignore;
+  * .npmignore;
+  * .editorconfig;
 
 
 ---
